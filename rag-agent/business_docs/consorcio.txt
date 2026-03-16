@@ -1,0 +1,222 @@
+# Base de Conhecimento — Consórcio
+
+## 1. O que é um Consórcio
+
+O consórcio é uma modalidade de aquisição planejada de bens ou serviços baseada na formação de um grupo de pessoas que contribuem mensalmente para a criação de um fundo comum. Esse fundo é administrado por uma administradora de consórcios e utilizado para contemplar os participantes do grupo ao longo do tempo.
+
+Diferente de um financiamento tradicional, no consórcio **não há cobrança de juros**. Em vez disso, os participantes pagam uma **taxa de administração**, além de possíveis custos adicionais previstos em contrato.
+
+O objetivo do consórcio é permitir que os participantes adquiram um bem ou serviço de forma programada, com contemplações ocorrendo ao longo do período do grupo.
+
+Os consórcios são regulamentados no Brasil pelo **Banco Central**, que estabelece regras para garantir a segurança e a transparência dessa modalidade.
+
+---
+
+# 2. Estrutura de um Grupo de Consórcio
+
+Um consórcio é organizado em grupos compostos por diversos participantes. Cada participante possui uma ou mais **cotas**, que representam sua participação no grupo.
+
+Cada grupo possui características definidas previamente, como:
+
+* Valor da carta de crédito
+* Prazo de duração do grupo
+* Quantidade de participantes
+* Taxa de administração
+* Regras de contemplação
+* Periodicidade das assembleias
+
+O funcionamento do consórcio depende do pagamento mensal das parcelas pelos participantes. Esses pagamentos formam o **fundo comum**, que é utilizado para contemplar os membros do grupo.
+
+---
+
+# 3. Carta de Crédito
+
+A **carta de crédito** é o valor que o participante terá direito a utilizar após ser contemplado no consórcio.
+
+Ela pode ser usada para adquirir o bem ou serviço previsto no contrato do grupo, como:
+
+* imóveis
+* veículos
+* serviços
+* outros bens permitidos pela administradora
+
+O valor da carta de crédito pode ser atualizado ao longo do tempo de acordo com critérios definidos no contrato, como índices econômicos ou reajustes baseados no valor do bem.
+
+---
+
+# 4. Parcelas do Consórcio
+
+A parcela mensal paga pelos participantes normalmente é composta por diferentes componentes:
+
+### Fundo Comum
+
+É a parte da parcela destinada à formação do caixa que será usado para contemplar os participantes.
+
+### Taxa de Administração
+
+Remuneração da administradora pela gestão do consórcio.
+
+### Fundo de Reserva
+
+Valor destinado a cobrir eventuais inadimplências ou situações extraordinárias do grupo.
+
+### Seguros (quando aplicável)
+
+Alguns consórcios incluem seguros, como seguro prestamista.
+
+---
+
+# 5. Assembleias
+
+As assembleias são reuniões periódicas, normalmente realizadas mensalmente, nas quais ocorre a contemplação dos participantes.
+
+Durante a assembleia, podem ocorrer diferentes eventos:
+
+* contemplação por sorteio
+* contemplação por lance
+* atualização de valores
+* prestação de contas do grupo
+
+Cada assembleia representa um ciclo de contemplação dentro do consórcio.
+
+---
+
+# 6. Contemplação
+
+A **contemplação** é o momento em que o participante passa a ter direito de utilizar sua carta de crédito.
+
+Existem duas principais formas de contemplação:
+
+1. **Sorteio**
+2. **Lance**
+
+Uma vez contemplado, o participante pode utilizar a carta de crédito para adquirir o bem previsto no consórcio, respeitando as regras de análise e aprovação da administradora.
+
+---
+
+# 7. Contemplação por Sorteio
+
+No sorteio, todos os participantes ativos e adimplentes do grupo têm a chance de serem contemplados de forma aleatória.
+
+Esse processo normalmente utiliza números vinculados às cotas.
+
+A contemplação por sorteio garante que todos os participantes tenham chance de receber a carta de crédito ao longo da duração do grupo, independentemente de oferecer lances.
+
+---
+
+# 8. Contemplação por Lance
+
+Além do sorteio, os participantes também podem tentar antecipar sua contemplação por meio de **lances**.
+
+O lance funciona como uma oferta antecipada de pagamento de parte da carta de crédito.
+
+Existem dois tipos principais de lance:
+
+* **Lance Livre**
+* **Lance Fixo**
+
+---
+
+# 9. Lance Livre
+
+O **lance livre** funciona de forma semelhante a um leilão entre os participantes do grupo.
+
+Nesse modelo:
+
+* Cada participante pode ofertar o valor ou percentual que desejar.
+* Os lances são comparados na assembleia.
+* O participante que ofertar o maior lance tem prioridade para ser contemplado.
+
+Características do lance livre:
+
+* Não existe um valor pré-determinado.
+* Quanto maior o lance ofertado, maior a chance de contemplação.
+* O lance vencedor normalmente corresponde ao maior percentual da carta de crédito ofertado naquela assembleia.
+
+Caso o participante seja contemplado por lance livre, o valor ofertado é abatido da carta de crédito ou utilizado para reduzir o saldo do consórcio, conforme as regras da administradora.
+
+---
+
+# 10. Lance Fixo
+
+O **lance fixo** possui um valor ou percentual previamente definido pela administradora.
+
+Nesse modelo:
+
+* O participante aceita ofertar exatamente aquele percentual fixo da carta de crédito.
+* Todos os participantes que aderirem ao lance fixo concorrem entre si.
+
+Diferente do lance livre, no lance fixo **não existe disputa por maior valor**.
+
+O funcionamento ocorre da seguinte forma:
+
+1. A administradora define um percentual fixo da carta de crédito.
+2. Os participantes interessados ofertam esse lance fixo.
+3. Entre os participantes que ofertaram o lance fixo, ocorre um sorteio para definir quem será contemplado.
+
+Portanto:
+
+* O lance fixo consome um percentual da carta de crédito.
+* O participante concorre **apenas com quem também optou pelo lance fixo naquela assembleia**.
+* Caso seja contemplado, o valor correspondente ao percentual ofertado é utilizado conforme as regras do consórcio.
+
+Esse modelo costuma ser utilizado por participantes que desejam aumentar suas chances de contemplação sem competir com valores elevados do lance livre.
+
+---
+
+# 11. Utilização da Carta de Crédito
+
+Após ser contemplado, o participante pode utilizar a carta de crédito para adquirir o bem ou serviço previsto no contrato.
+
+Normalmente ocorre um processo de:
+
+1. indicação do bem
+2. análise pela administradora
+3. aprovação da documentação
+4. liberação do pagamento ao vendedor
+
+A carta de crédito não é entregue diretamente em dinheiro ao participante; ela é utilizada para pagamento do bem ou serviço adquirido.
+
+---
+
+# 12. Pagamento Após Contemplação
+
+Mesmo após ser contemplado, o participante deve continuar pagando as parcelas restantes do consórcio até o término do prazo do grupo.
+
+A contemplação antecipa o acesso à carta de crédito, mas **não encerra a obrigação de pagamento das parcelas**.
+
+---
+
+# 13. Inadimplência
+
+Caso um participante deixe de pagar as parcelas, podem ocorrer consequências como:
+
+* perda do direito de participar de sorteios
+* impossibilidade de ofertar lances
+* cobrança de encargos
+* cancelamento da cota em casos extremos
+
+A inadimplência pode impactar o equilíbrio financeiro do grupo, motivo pelo qual existem mecanismos como fundo de reserva.
+
+---
+
+# 14. Vantagens do Consórcio
+
+Entre os principais benefícios do consórcio estão:
+
+* ausência de juros
+* planejamento financeiro
+* possibilidade de contemplação antecipada
+* flexibilidade na aquisição do bem
+
+---
+
+# 15. Considerações Finais
+
+O consórcio é uma alternativa de aquisição baseada em colaboração entre participantes e planejamento financeiro de médio ou longo prazo.
+
+A contemplação pode ocorrer ao longo de todo o período do grupo, seja por sorteio ou por lance.
+
+Os mecanismos de lance — especialmente o **lance livre**, que funciona como um leilão, e o **lance fixo**, que utiliza um percentual pré-definido da carta de crédito — permitem que os participantes aumentem suas chances de contemplação nas assembleias.
+
+Por isso, entender o funcionamento das assembleias, das regras de contemplação e das estratégias de lance é fundamental para quem participa de um consórcio.

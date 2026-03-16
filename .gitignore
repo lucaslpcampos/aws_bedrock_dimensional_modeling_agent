@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# CDK
+cdk.out/
+.cdk.staging/
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Env / Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+**/secret*
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Notebook outputs / checkpoints
+*.nbconvert.*
+
+# files
+*.csv
+*.pdf
